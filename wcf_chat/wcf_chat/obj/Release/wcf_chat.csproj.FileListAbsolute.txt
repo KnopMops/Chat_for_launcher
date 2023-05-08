@@ -1,0 +1,7 @@
+C:\Users\Andre\source\repos\wcf_chat\wcf_chat\wcf_chat\bin\Release\Chat By Knopz.dll.config
+C:\Users\Andre\source\repos\wcf_chat\wcf_chat\wcf_chat\bin\Release\Chat By Knopz.dll
+C:\Users\Andre\source\repos\wcf_chat\wcf_chat\wcf_chat\bin\Release\Chat By Knopz.pdb
+C:\Users\Andre\source\repos\wcf_chat\wcf_chat\wcf_chat\obj\Release\wcf_chat.csproj.AssemblyReference.cache
+C:\Users\Andre\source\repos\wcf_chat\wcf_chat\wcf_chat\obj\Release\wcf_chat.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\wcf_chat\wcf_chat\wcf_chat\obj\Release\Chat By Knopz.dll
+C:\Users\Andre\source\repos\wcf_chat\wcf_chat\wcf_chat\obj\Release\Chat By Knopz.pdb

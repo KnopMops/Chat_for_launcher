@@ -1,0 +1,12 @@
+C:\Users\Andre\source\repos\wcf_chat\wcf_chat\ChatHost\bin\Release\ChatHost.exe.config
+C:\Users\Andre\source\repos\wcf_chat\wcf_chat\ChatHost\bin\Release\ChatHost.exe
+C:\Users\Andre\source\repos\wcf_chat\wcf_chat\ChatHost\bin\Release\ChatHost.pdb
+C:\Users\Andre\source\repos\wcf_chat\wcf_chat\ChatHost\bin\Release\Chat By Knopz.dll
+C:\Users\Andre\source\repos\wcf_chat\wcf_chat\ChatHost\bin\Release\Chat By Knopz.pdb
+C:\Users\Andre\source\repos\wcf_chat\wcf_chat\ChatHost\bin\Release\Chat By Knopz.dll.config
+C:\Users\Andre\source\repos\wcf_chat\wcf_chat\ChatHost\obj\Release\ChatHost.csproj.AssemblyReference.cache
+C:\Users\Andre\source\repos\wcf_chat\wcf_chat\ChatHost\obj\Release\ChatHost.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andre\source\repos\wcf_chat\wcf_chat\ChatHost\obj\Release\ChatHost.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\wcf_chat\wcf_chat\ChatHost\obj\Release\ChatHost.csproj.CopyComplete
+C:\Users\Andre\source\repos\wcf_chat\wcf_chat\ChatHost\obj\Release\ChatHost.exe
+C:\Users\Andre\source\repos\wcf_chat\wcf_chat\ChatHost\obj\Release\ChatHost.pdb
